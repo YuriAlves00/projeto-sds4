@@ -15,12 +15,12 @@ function Dashboard() {
                 <div className="row px-3">
 
                     <div className="col-sm-6">
-                        <h5 className="texte-center texte-secondary">Taxa de Sucesso(%)</h5>
+                        <h5 className="text-center texte-secondary">Taxa de Sucesso(%)</h5>
                         <BarChart />
                     </div>
 
                     <div className="col-sm-6">
-                        <h5 className="texte-center texte-secondary">Taxa de Sucesso(%)</h5>
+                        <h5 className="text-center texte-secondary">Todas as Vendas</h5>
                         <DonutChart />
                     </div>
                 </div>
